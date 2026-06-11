@@ -97,17 +97,51 @@ I enjoy designing clean architectures, building high-performance APIs, optimizin
 
 ## 🔥 Featured Projects
 
+### 🛒 Multi-Tenant E-Commerce Platform
+
+Scalable e-commerce backend built with FastAPI, MongoDB, Redis, and Celery.
+
+**Key Features:**
+- Multi-tenant architecture with complete tenant isolation
+- Asynchronous API implementation using FastAPI
+- Background task processing with Celery
+- Redis caching for improved performance
+- Product, inventory, order, and customer management
+- Scalable and maintainable backend architecture
+
+**Tech Stack:** FastAPI, MongoDB, Redis, Celery, Docker
+
+---
+
 ### 🦷 Dentist Patient Management System
-Desktop application built with Python, PyQt, and SQLite for managing patients, appointments, and treatments.
+
+Desktop application built with Python, PyQt, and SQLite for managing patients, appointments, treatments, and medical records.
+
+**Tech Stack:** Python, PyQt, SQLite
+
+---
 
 ### 📅 Appointment Booking Platform
-Full-stack appointment management solution using Django and React.
+
+Appointment management system allowing doctors and patients to schedule and manage appointments efficiently.
+
+**Tech Stack:** Django, React, PostgreSQL
+
+---
 
 ### 📄 Enterprise Document Management System
-Customized and integrated Mayan EDMS deployments with Docker, PostgreSQL, Redis, and Nginx.
+
+Document management solution based on Mayan EDMS with custom integrations, role management, document workflows, and containerized deployment.
+
+**Tech Stack:** Django, PostgreSQL, Docker, Redis, Nginx
+
+---
 
 ### 💊 Medication & Prescription Service
-Microservice-based prescription management platform using FastAPI and gRPC.
+
+Microservice-based prescription and medication management platform with API and gRPC communication.
+
+**Tech Stack:** FastAPI, gRPC, PostgreSQL
 
 ---
 
