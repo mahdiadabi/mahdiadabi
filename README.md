@@ -56,6 +56,14 @@ I enjoy designing clean architectures, building high-performance APIs, optimizin
 
 ## 💼 Professional Experience
 
+### Freelance FastAPI Backend Developer
+*Nov 2025 – May 2026*
+
+- Developed a scalable multi-tenant e-commerce backend using FastAPI.
+- Implemented tenant isolation and asynchronous architecture.
+- Integrated MongoDB, Redis, and Celery for background task processing.
+- Designed APIs for high performance and maintainability.
+
 ### Backend Developer
 **VITRUVIAN SHIELD** — Switzerland (Remote)  
 *Sep 2024 – Nov 2025*
@@ -72,14 +80,6 @@ I enjoy designing clean architectures, building high-performance APIs, optimizin
 - Assisted in backend development and API integration.
 - Worked with databases and query optimization.
 - Contributed to feature implementation and maintenance.
-
-### Freelance FastAPI Backend Developer
-*Nov 2025 – May 2026*
-
-- Developed a scalable multi-tenant e-commerce backend using FastAPI.
-- Implemented tenant isolation and asynchronous architecture.
-- Integrated MongoDB, Redis, and Celery for background task processing.
-- Designed APIs for high performance and maintainability.
 
 ---
 
