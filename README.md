@@ -1,6 +1,13 @@
 # Hi, I'm Mahdi Adabi 👋
 
-### Backend Developer | Python | Django | FastAPI | gRPC
+Backend Developer | Python | Django | FastAPI | gRPC
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
 
 📧 mahdiadabi.1380@gmail.com  
 📱 +98 911 626 6608  
@@ -100,14 +107,6 @@ Customized and integrated Mayan EDMS deployments with Docker, PostgreSQL, Redis,
 
 ### 💊 Medication & Prescription Service
 Microservice-based prescription management platform using FastAPI and gRPC.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdiadabi&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiadabi&layout=compact)
 
 ---
 
