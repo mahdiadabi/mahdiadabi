@@ -14,12 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+Django+Expert;Scalable+System+Architect;Building+Production-Ready+APIs" />
 </p>
 
-
-📧 mahdiadabi.1380@gmail.com  
-📱 +98 911 626 6608  
-📍 Mazandaran, Iran  
-💼 LinkedIn: https://linkedin.com/in/adabi01
-
 ---
 
 ## About Me
