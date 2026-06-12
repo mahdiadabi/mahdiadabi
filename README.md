@@ -29,6 +29,7 @@ I enjoy designing clean architectures, building high-performance APIs, optimizin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
 </p>
+
 ### Languages & Frameworks
 - Python
 - Django
