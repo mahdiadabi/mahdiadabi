@@ -1,6 +1,19 @@
-# Hi, I'm Mahdi Adabi 👋
+<h1 align="center">Hi 👋, I'm Mahdi Adabi</h1>
+<h3 align="center">Backend Developer | Python | FastAPI | Django | gRPC</h3>
 
-Backend Developer | Python | Django | FastAPI
+<p align="center">
+  <a href="https://linkedin.com/in/adabi01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mahdiadabi.1380@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+Django+Expert;Scalable+System+Architect;Building+Production-Ready+APIs" />
+</p>
+
 
 📧 mahdiadabi.1380@gmail.com  
 📱 +98 911 626 6608  
