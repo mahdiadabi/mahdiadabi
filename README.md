@@ -1,7 +1,7 @@
 # Hi, I'm Mahdi Adabi 👋
 
 Backend Developer | Python | Django | FastAPI
-#
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
@@ -13,7 +13,7 @@ Backend Developer | Python | Django | FastAPI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
 </p>
-
+#
 📧 mahdiadabi.1380@gmail.com  
 📱 +98 911 626 6608  
 📍 Mazandaran, Iran  
