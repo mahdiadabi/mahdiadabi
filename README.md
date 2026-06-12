@@ -1,8 +1,6 @@
 # Hi, I'm Mahdi Adabi 👋
 
-Backend Developer | Python | Django | FastAPI | gRPC
-
-## 🚀 Tech Stack
+Backend Developer | Python | Django | FastAPI
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
