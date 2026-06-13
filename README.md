@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Adabi</h1>
-<h3 align="center">Backend Developer · Python · FastAPI · Django · gRPC</h3>
+<h3 align="center">Backend Developer · Python · FastAPI · Django </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/adabi01">
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Backend Developer specializing in Python, with hands-on experience building scalable, production-ready systems using **Django**, **FastAPI**, and **gRPC**.
+Backend Developer specializing in Python, with hands-on experience building scalable, production-ready systems using **Django** and **FastAPI**.
 
 I focus on clean architecture, high-performance APIs, database optimization, and containerized deployments. I value collaboration, continuous learning, and engineering solutions that solve real-world problems.
 
